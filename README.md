@@ -57,14 +57,18 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![image](https://github.com/SaiSanjiv/Norm-of-a-matrix/assets/151772975/6b4a8f55-b842-40a4-b0a1-438198dbc9a6)
+![Screenshot 2024-05-05 170822](https://github.com/SaiSanjiv/Norm-of-a-matrix/assets/151772975/f5f5f08e-40d1-41e2-bbed-4d9c2640efa2)
+
 
 
 ### 2-Norm of a Matrix
-![image](https://github.com/SaiSanjiv/Norm-of-a-matrix/assets/151772975/d5583e5e-2dd6-4322-b8b5-031ce591f9f4)
+
+![Screenshot 2024-05-05 170835](https://github.com/SaiSanjiv/Norm-of-a-matrix/assets/151772975/2eedb4c7-62e7-4fe3-baef-44e66784ba0f)
 
 
 ### Infinity Norm of a Matrix
+
+![Screenshot 2024-05-05 170853](https://github.com/SaiSanjiv/Norm-of-a-matrix/assets/151772975/18579d47-2e91-4b5a-970a-4bcd0ef84963)
 
 
 ## Result
